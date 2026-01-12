@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Mohit Kumar
 
-<!--
-**mohitkumar-qa/mohitkumar-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Certification
+- ✅ ISTQB Foundation Level Certified
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Certified Manual Software Tester
+- Strong understanding of SDLC & STLC
+- Experienced in writing Test Scenarios, Test Cases & Bug Reports
+- Currently learning Selenium with Java for Automation Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Manual Testing
+- Test Case Design Techniques
+- Bug Reporting (JIRA)
+- Functional, Regression & Smoke Testing
+- SDLC & STLC
+- Core Java (Basics)
+- Selenium WebDriver (Learning)
+
+## 📂 Projects
+- Manual Testing Project – E-commerce Website
+- Test Scenarios & Test Cases (Excel)
+- Bug Reports with Screenshots
+
+## 📘 Currently Learning
+- Selenium Automation with Java
+- API Testing (Postman – Basics)
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/mohit956
+
