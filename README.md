@@ -29,7 +29,7 @@ real-world projects, and continuous learning.
 - Introduction to Object-Oriented Programming with Java - LearnQuest (Coursera)
 - Introduction to Java - LearnQuest (Coursera)
 - Start Your API Testing Journey With Postman Tool - Coursera Project Network (Coursera)
-- 
+  
 
 ---
 
@@ -46,7 +46,7 @@ real-world projects, and continuous learning.
 ## 📂 Projects
 
 🔹 **Java Learning and Practice**  
-Structured Java practice repository with beginner-level programs:
+  Structured Java practice repository with beginner-level programs:
 - Prime Number Check
 - Palindrome Number
 - Factorial
@@ -56,7 +56,7 @@ Structured Java practice repository with beginner-level programs:
 👉 Repository: https://github.com/mohitkumar-qa/Java-Learning-and-Practice
 
 🔹 **Manual Testing – E-commerce Project**  
-Real-world manual testing project including:
+  Real-world manual testing project including:
 - Test Scenarios
 - Test Cases
 - Bug Reports  
@@ -74,7 +74,7 @@ Real-world manual testing project including:
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/mohitkumar-qa
-- LinkedIn: *(add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/heyitzmohit
 
 ---
 
